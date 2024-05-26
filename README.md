@@ -1,1 +1,2 @@
 # CodeAlpha_Image_Gallery
+IN THIS I HAVE GIVE AN BASIC LEVEL VIEW EXPERIENCE ..
