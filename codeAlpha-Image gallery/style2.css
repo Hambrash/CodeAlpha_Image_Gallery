@@ -1,0 +1,4 @@
+a img:hover{
+    transform: translateY(-10px);
+    transition: .7s;
+}
